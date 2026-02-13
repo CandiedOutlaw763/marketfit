@@ -1,0 +1,9 @@
+flask[async]
+flask-limiter
+groq
+curl-cffi
+feedparser
+google-play-scraper
+requests
+gunicorn
+python-dotenv
